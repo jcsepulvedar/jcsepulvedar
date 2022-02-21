@@ -11,6 +11,7 @@ const Human Juan = {
   principles: ["DRY", "KISS", "TTD", "Clean Code"],
   currentProject: "Create a modular MIDI foot conroller",
   future: ["Finish most my Udemy courses", "Headless Spotify clone implementation", "Become a pro Flutter/C# dev"],
+  greetings: () => {console.log("Thanks for stopping by!")}
 }
 ```
 
