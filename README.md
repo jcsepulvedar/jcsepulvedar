@@ -15,7 +15,7 @@ const Human Juan = {
 }
 ```
 
-### Live Spotify tracker (because why not)🎸
+### .liveSpotifyTracker(🎸) // Because why not
 ![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
 # .myStack
