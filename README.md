@@ -1,10 +1,5 @@
 ## Hi! I'm Juan Sepulveda! 👋
 
-### Currently listening to 
-
-![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
-
-
 ## .about.JS❓
 ```javascript
 const Human Juan = {
@@ -19,6 +14,9 @@ const Human Juan = {
   greetings: () => {console.log("Thanks for stopping by!")}
 }
 ```
+
+### Currently listening to 
+![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
 ## .languages
 <p>
