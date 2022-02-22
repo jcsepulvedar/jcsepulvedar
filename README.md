@@ -5,7 +5,6 @@
 ![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
 
-
 ## .about.JS❓
 ```javascript
 const Human Juan = {
@@ -32,6 +31,7 @@ const Human Juan = {
   <img alt="Java" title="Java" style="width: 45px;" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />
 </p>
 
+
 ## .frameworks
 <p>
   <img alt="React Native" title="React Native" style="width: 50px; heigth:50px;" src="https://brandslogos.com/wp-content/uploads/images/react-logo-1.png" />
@@ -40,6 +40,7 @@ const Human Juan = {
   <img alt="Jest" title="Jest" style="width: 43px;" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" />
 </p>
 
+
 ## .dataBases
 <p>
   <img alt="Mongo DB" title="Mongo DB" style="width: 50px; heigth:50px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
@@ -47,11 +48,13 @@ const Human Juan = {
   <img alt="MySQL" title="MySQL" style="width: 50px; heigth:50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
 </p>
 
+
 ## .ecommerce
 <p>
   <img alt="Stripe" title="Stripe" style="width: 50px; heigth:50px;" src="https://cdn.iconscout.com/icon/free/png-256/stripe-2-498440.png" />
   <img alt="Salesforce" title="Salesforce" style="width: 65px; heigth:50px;" src="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/Salesforce.com_logo.svg/2000px-Salesforce.com_logo.svg.png?20200226192435" />
 </p>
+
 
 ## .tools
 <p>
@@ -63,11 +66,13 @@ const Human Juan = {
   <img alt="NodeJS" title="NodeJS" style="width: 50px; heigth:50px;" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" />
 </p>
 
+
 ## .others
 <p>
   <img alt="Arduino" title="Arduino" style="width: 50px; heigth:50px;" src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" />
   <img alt="Sublime" title="Sublime" style="width: 50px; heigth:50px;" src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" />
 </p>
+
 
 ## .whereToFindMe
 <p>
