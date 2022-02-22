@@ -1,8 +1,11 @@
 ## Hi! I'm Juan Sepulveda! 👋
 
-### Currently listening to
+<!--### Currently listening to 
 
 ![Spotify](https://us-central1-current-spotify.cloudfunctions.net/displayCurrentlyPlaying)
+
+-->
+
 
 ## .about.JS❓
 ```javascript
