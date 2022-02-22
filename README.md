@@ -15,7 +15,7 @@ const Human Juan = {
 }
 ```
 
-### Live Spotify tracker (because why not)
+### Live Spotify tracker (because why not)🎸
 ![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
 ## .languages
@@ -62,6 +62,7 @@ const Human Juan = {
   <img alt="Git" title="Git" style="width: 50px; heigth:50px;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   <img alt="Sublime" title="Sublime" style="width: 50px; heigth:50px;" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
   <img alt="NodeJS" title="NodeJS" style="width: 50px; heigth:50px;" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" />
+  <img alt="Google Cloud Platform" title="Google Cloud Platform" style="width: 50px; heigth:50px;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Google-cloud-platform.svg" />
 </p>
 
 
