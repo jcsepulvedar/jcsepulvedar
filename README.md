@@ -18,6 +18,8 @@ const Human Juan = {
 ### Live Spotify tracker (because why not)🎸
 ![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
+# .myStack
+
 ## .languages
 <p>
   <img alt="JavaScript" title="JavaScript" style="width: 50px; heigth:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" />
