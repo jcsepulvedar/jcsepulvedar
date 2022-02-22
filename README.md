@@ -1,4 +1,4 @@
-## Hi! I'm Juan Sepulveda! 👋
+## Hi! I'm Juan C. Sepulveda! 👋
 
 ## .about.JS❓
 ```javascript
