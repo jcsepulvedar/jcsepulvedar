@@ -9,10 +9,10 @@
 ```javascript
 const Human Juan = {
   pronouns: "he" | "him",
-  experienceWith: ["Web Apps", "IoT", "Desktop Apps", "Fullstack", "Unit Tests", "Porting"],
+  experienceWith: ["Web Apps", "PWAs", "IoT", "Desktop Apps", "Fullstack", "Unit Tests", "Porting", "uBlox"],
   canSpeak: ["🇪🇸", "🇩🇪", "🇬🇧"],
   wantToLearn: ["🇷🇺", "🇯🇵", "🇵🇹"],
-  hobbies: ["Play music", "Video games", "Reading"],
+  hobbies: ["Playing music", "Video games", "Reading"],
   principles: ["DRY", "KISS", "TTD", "Clean Code"],
   currentProject: "Create a modular MIDI foot controller",
   future: ["Finish most my Udemy courses", "Headless Spotify clone implementation", "Become a pro Flutter/C# dev"],
