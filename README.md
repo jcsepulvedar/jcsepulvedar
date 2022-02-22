@@ -15,7 +15,7 @@ const Human Juan = {
 }
 ```
 
-### Currently listening to 
+### Live Spotify tracker (because why not)
 ![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
 ## .languages
