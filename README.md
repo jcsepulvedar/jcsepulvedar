@@ -2,7 +2,7 @@
 
 ### Currently listening to 
 
-![Spotify](https://us-central1-current-spotify.cloudfunctions.net/displayCurrentlyPlaying)
+![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
 
 
