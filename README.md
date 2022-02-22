@@ -15,6 +15,7 @@ const Human Juan = {
 }
 ```
 
+![Spotify](https://us-central1-current-spotify.cloudfunctions.net/displayCurrentlyPlaying)
 
 ## .languages
 <p>
