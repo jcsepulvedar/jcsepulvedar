@@ -18,6 +18,9 @@ const Human Juan = {
 ### .liveSpotifyTracker(🎸) // Because why not
 ![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
+### .trailHeadAPI(🎸) // Small API I wrote using puppeteer to fetch the stats of a users Salesforce (Trailhead) profile
+![Trailhead](https://us-central1-current-spotify.cloudfunctions.net/trailheadCard)
+
 # .myStack
 
 ## .languages
