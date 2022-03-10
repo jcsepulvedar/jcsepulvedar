@@ -15,7 +15,7 @@ const Human Juan = {
 }
 ```
 
-### .liveSpotifyTracker(🎸) // Because I'm almost 30 and miss stalking my friends music taste in the lates 90s/early 2000s via MSN Messenger
+### .liveSpotifyTracker(🎸) // Because I'm almost 30 and miss stalking my friends music taste in the late 90s/early 2000s via MSN Messenger
 ![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
 ### .trailHeadAPI() // Small API I wrote using Puppeteer to fetch the stats of a users Salesforce (Trailhead) profile
@@ -38,7 +38,7 @@ const Human Juan = {
 ## .frameworks
 <p>
   <img alt="React Native" title="React Native" style="width: 50px; heigth:50px;" src="https://brandslogos.com/wp-content/uploads/images/react-logo-1.png" />
-  <img alt="VueJS" title="TypeScriVueJSpt" style="width: 50px; heigth:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
+  <img alt="VueJS" title="VueJS" style="width: 50px; heigth:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
   <img alt="Angular" title="Angular" style="width: 50px; heigth:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" />
   <img alt="Jest" title="Jest" style="width: 43px;" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" />
 </p>
