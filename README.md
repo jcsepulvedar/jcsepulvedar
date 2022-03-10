@@ -15,10 +15,10 @@ const Human Juan = {
 }
 ```
 
-### .liveSpotifyTracker(🎸) // Because why not
+### .liveSpotifyTracker(🎸) // Because I'm almost 30 and miss stalking my friends music taste in the lates 90s/early 2000s via MSN Messenger
 ![Spotify](https://us-central1-current-spotify.cloudfunctions.net/getCurrentlyPlaying)
 
-### .trailHeadAPI() // Small API I wrote using puppeteer to fetch the stats of a users Salesforce (Trailhead) profile
+### .trailHeadAPI() // Small API I wrote using Puppeteer to fetch the stats of a users Salesforce (Trailhead) profile
 ![Trailhead](https://us-central1-current-spotify.cloudfunctions.net/trailheadCard)
 
 # .myStack
